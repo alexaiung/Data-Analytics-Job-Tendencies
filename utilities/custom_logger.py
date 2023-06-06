@@ -7,7 +7,7 @@ class CustomLogger():
 
     @staticmethod
     def info(text):
-        filename = datetime.now().strftime('%Y%m%d')
+        filename = datetime.now().strftime('%Y%m%d-%H')
         #os.makedirs(f'logs/{filename}.txt')
         with open(f'logs/{filename}.txt', 'a', encoding="utf-8") as file:
             file.write(f"{datetime.now().strftime('%Y/%m/%d %H:%M:%S')} - {text}")

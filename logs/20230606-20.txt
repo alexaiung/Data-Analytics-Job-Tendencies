@@ -1,0 +1,1125 @@
+2023/06/06 20:38:08 - Waiting for maximum :: 10 :: seconds for element to be clickable
+
+2023/06/06 20:38:11 - Element appeared on the web page
+
+2023/06/06 20:38:11 - Element found with locator: scaffold-layout__list-container and  locatorType: class
+
+2023/06/06 20:38:11 - Element list FOUND with locator: a and locatorType: tag
+
+2023/06/06 20:38:11 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:11 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:12 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:13 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:13 - Sent data on element with locator:  locatorType: id
+
+2023/06/06 20:38:13 - Element found with locator: scaffold-layout__list-container and  locatorType: class
+
+2023/06/06 20:38:13 - Element list FOUND with locator: a and locatorType: tag
+
+2023/06/06 20:38:13 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:13 - Element appeared on the web page
+
+2023/06/06 20:38:13 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:13 - Element appeared on the web page
+
+2023/06/06 20:38:13 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:13 - Element appeared on the web page
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__content--two-pane and  locatorType: class
+
+2023/06/06 20:38:13 - Element found with locator: h2 and  locatorType: tag
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Football Statistician'
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__company-name and  locatorType: class
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Genius Sports'
+
+2023/06/06 20:38:13 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:13 - Element appeared on the web page
+
+2023/06/06 20:38:13 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:13 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Contrato · Assistente'
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: '1.001-5.000 funcionários · Desenvolvimento de software'
+
+2023/06/06 20:38:13 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:13 - Element appeared on the web page
+
+2023/06/06 20:38:13 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:13 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Contrato · Assistente'
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: '1.001-5.000 funcionários · Desenvolvimento de software'
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__bullet and  locatorType: class
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Nova Venécia, Espírito Santo, Brasil'
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__posted-date and  locatorType: class
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'há 1 semana'
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__applicant-count and  locatorType: class
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: '28 candidaturas'
+
+2023/06/06 20:38:13 - Element found with locator: jobs-unified-top-card__workplace-type and  locatorType: class
+
+2023/06/06 20:38:13 - Getting text on element :: 
+
+2023/06/06 20:38:13 - The text is :: 'Presencial'
+
+2023/06/06 20:38:13 - Waiting for maximum :: 10 :: seconds for element to be clickable
+
+2023/06/06 20:38:24 - Element not appeared on the web page
+
+2023/06/06 20:38:24 - Element not found with locator: jobs-unified-top-card__job-insight-text-button and locatorType: class
+
+2023/06/06 20:38:24 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:24 - Element appeared on the web page
+
+2023/06/06 20:38:24 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:24 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: 'Contrato · Assistente'
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: '1.001-5.000 funcionários · Desenvolvimento de software'
+
+2023/06/06 20:38:24 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:24 - Element appeared on the web page
+
+2023/06/06 20:38:24 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:24 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: 'Contrato · Assistente'
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: '1.001-5.000 funcionários · Desenvolvimento de software'
+
+2023/06/06 20:38:24 - Element found with locator: job-details and  locatorType: id
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: 'Sobre a vaga
+Love sports?
+
+Want to get paid while attending games?
+
+We're looking for someone like you.
+
+As a member of our global statisticians' network, you'll get to attend more sporting events in your area. While you're at a game you'll report the live-action back to us through our data collection software.
+
+Job type - Independent Contractor - paid per match covered
+
+Get to know us - https://geniussports.com/statisticians-network/
+
+This is an opportunity for exciting and fast-paced work as a Football Statistician.
+
+Requirements:
+You are reliable, committed, organized, and honest
+Above-average Football knowledge with regards to the Laws of the Game, basic tactics, and jargon
+Regular availability on weekends and weekday evenings
+Regular internet access
+Access to Skype and YouTube for meetings and training tools
+
+Interested and want to learn more?
+Tell us a bit about yourself and we'll be in touch with you for more information.'
+
+2023/06/06 20:38:24 - Element found with locator: jobs-apply-button--top-card and  locatorType: class
+
+2023/06/06 20:38:24 - Getting text on element :: 
+
+2023/06/06 20:38:24 - The text is :: 'Aplicar'
+
+2023/06/06 20:38:28 - Element found with locator: a and  locatorType: tag
+
+2023/06/06 20:38:29 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:29 - Element appeared on the web page
+
+2023/06/06 20:38:29 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:29 - Element appeared on the web page
+
+2023/06/06 20:38:29 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:29 - Element appeared on the web page
+
+2023/06/06 20:38:29 - Element found with locator: jobs-unified-top-card__content--two-pane and  locatorType: class
+
+2023/06/06 20:38:29 - Element found with locator: h2 and  locatorType: tag
+
+2023/06/06 20:38:29 - Getting text on element :: 
+
+2023/06/06 20:38:29 - The text is :: 'Customer Insights Analyst (Bangkok Based, Relocation Provided)'
+
+2023/06/06 20:38:29 - Element found with locator: jobs-unified-top-card__company-name and  locatorType: class
+
+2023/06/06 20:38:29 - Getting text on element :: 
+
+2023/06/06 20:38:29 - The text is :: 'Agoda'
+
+2023/06/06 20:38:29 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:30 - Element appeared on the web page
+
+2023/06/06 20:38:30 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:30 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'Tempo integral · Júnior'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: '5.001-10.000 funcionários · Tecnologia, Informação e Internet'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: '1 ex-aluno trabalha aqui'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'Veja como você se compara a 9 candidatos. Experimente o Premium grátis'
+
+2023/06/06 20:38:30 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:30 - Element appeared on the web page
+
+2023/06/06 20:38:30 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:30 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'Tempo integral · Júnior'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: '5.001-10.000 funcionários · Tecnologia, Informação e Internet'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: '1 ex-aluno trabalha aqui'
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'Veja como você se compara a 9 candidatos. Experimente o Premium grátis'
+
+2023/06/06 20:38:30 - Element found with locator: jobs-unified-top-card__bullet and  locatorType: class
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'Manaus, Amazonas, Brasil'
+
+2023/06/06 20:38:30 - Element found with locator: jobs-unified-top-card__posted-date and  locatorType: class
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: 'há 4 dias'
+
+2023/06/06 20:38:30 - Element found with locator: jobs-unified-top-card__applicant-count and  locatorType: class
+
+2023/06/06 20:38:30 - Getting text on element :: 
+
+2023/06/06 20:38:30 - The text is :: '9 candidaturas'
+
+2023/06/06 20:38:30 - Element not found with locator: jobs-unified-top-card__workplace-type and locatorType: class
+
+2023/06/06 20:38:30 - Waiting for maximum :: 10 :: seconds for element to be clickable
+
+2023/06/06 20:38:30 - Element appeared on the web page
+
+2023/06/06 20:38:30 - Element found with locator: jobs-unified-top-card__job-insight-text-button and  locatorType: class
+
+2023/06/06 20:38:30 - Waiting for maximum :: 10 :: seconds for element to be clickable
+
+2023/06/06 20:38:31 - Element appeared on the web page
+
+2023/06/06 20:38:31 - Element found with locator: job-details-skill-match-status-list and  locatorType: class
+
+2023/06/06 20:38:31 - Element list FOUND with locator: display-flex and locatorType: class
+
+2023/06/06 20:38:31 - Element found with locator: artdeco-button and  locatorType: class
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Capacidade de organização'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Capacidade de organização'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comunicação'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comunicação'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Apresentações'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Apresentações'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Banco de investimento'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Banco de investimento'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Capital privado'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Capital privado'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comunicação escrita'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comunicação escrita'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comércio eletrônico'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Comércio eletrônico'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Marketing digital'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Marketing digital'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Serviços de publicidade online'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Serviços de publicidade online'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Teste A/B'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Teste A/B'
+
+2023/06/06 20:38:31 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:31 - Element appeared on the web page
+
+2023/06/06 20:38:31 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:31 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Tempo integral · Júnior'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: '5.001-10.000 funcionários · Tecnologia, Informação e Internet'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: '1 ex-aluno trabalha aqui'
+
+2023/06/06 20:38:31 - Getting text on element :: 
+
+2023/06/06 20:38:31 - The text is :: 'Veja como você se compara a 9 candidatos. Experimente o Premium grátis'
+
+2023/06/06 20:38:31 - Waiting for maximum :: 20 :: seconds for element to be clickable
+
+2023/06/06 20:38:31 - Element appeared on the web page
+
+2023/06/06 20:38:32 - Element found with locator: //*[@id="main"]/div/div[2]/div/div[2]/div[1]/div/div[1]/div/div[1]/div[1]/div[3] and  locatorType: xpath
+
+2023/06/06 20:38:32 - Element list FOUND with locator: li and locatorType: tag
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: 'Tempo integral · Júnior'
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: '5.001-10.000 funcionários · Tecnologia, Informação e Internet'
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: '1 ex-aluno trabalha aqui'
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: 'Veja como você se compara a 9 candidatos. Experimente o Premium grátis'
+
+2023/06/06 20:38:32 - Element found with locator: job-details and  locatorType: id
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: 'Sobre a vaga
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know our Team:
+
+The Performance Marketing Team of Agoda is a world leader in online marketing. This department is highly data-driven and focused on developing at-scale marketing programs that improve the lifetime value of Agoda customers through measurable marketing programs and channels. The team is a blend of the best analysts, marketing strategists, and data scientists in the world. The marketing leadership at Agoda has deep experience in data science, product, strategy, and other marketing fields and has built an organization that thrives on data, creative ideas, and technology. The Performance Marketing Team also fosters a great learning environment. You will be able to learn and grow by working closely with experts from a variety of backgrounds from all over the world.
+
+Due to continued expansion, there are multiple analyst roles within the marketing team across different marketing channels. While the scope will vary depending on these channels, here are some examples:
+
+Experimentation and optimizing campaign performance: Experiment with ads/campaign structures and bidding& pricing strategies on partners such as Google, Bing, TripAdvisor, Trivago, and other search engines. Adapt to new product features and roll out changes from successful tests.
+Modeling: Analyze vast amounts of data generated by experiments, develop predictive models using data science techniques (e.g. understanding the impact on bookings from large-scale TV campaigns or demand elasticity from pricing optimization), and liaise with product teams on an implementation roadmap
+Reporting, analysis, and insights: Building dashboards to track performance, derive insights, understand growth levers, and communicate recommendations via presentations to stakeholders
+
+What you’ll Need to Succeed:
+
+Bachelor’s degree or higher from top university in a quantitative subject e.g. computer science, mathematics, engineering business, science, or relevant field of study
+0 to 4 years experience in data crunching from top-tier consulting, investment banking, private equity or strategy/business role for a fast-growing global tech company
+Experience in one or more data analysis packages or databases, e.g. SQL, SAS, R, SPSS, Python, VBA and visualization tools, e.g. Tableau, Power BI, etc.
+Excellent verbal and written communication skills in English
+Ability to move fast and be efficient, making decisions on objective data evidence
+Innate desire to take ownership, make an impact and influence outcomes
+Excellent organizational skills, attention to detail and ability to work independently
+
+It’s Great if you Have:
+
+Experience in digital marketing or e-commerce
+Experience with A/B testing and other testing metrics
+Strong presentation and negotiation skills
+#entrylevel #STRA#ANLS#MRKT#3 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #washdc #tirana #yerevan #sydney #melbourne #perth #vienna #graz #linz #baku #minsk #brussels #antwerp #ghent #charleroi #liege #saopaolo #sofia #toronto #vancouver #montreal #shanghai #beijing #shenzhen #zagreb #cyprus #prague #Brno #Ostrava #copenhagen #cairo #alexandria #giza #estonia #helsinki #paris #nice #marseille #rouen #lyon #toulouse #tbilisi #berlin #munich #hamburg #stuttgart #cologne #frankfurt #dusseldorf #dortmund #essen #Bremen #leipzig #dresden #hanover #nuremberg #athens #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #dublin #telaviv #milan #rome #naples #turin #palermo #venice #bologna #florence #tokyo #osaka #yokohama #nagoya #okinawa #fukuoka #sapporo #amman #irbid #riga #beirut #tripoli #vilnius #luxembourg #kualalumpur #malta #chisinau #amsterdam #oslo #jerusalem #manila #warsaw #krakow #sintra #lisbon #porto #braga #cascais #loures #amadora #almada #doha #alrayyan #bucharest #moscow #saintpetersburg #riyadh #jeddah #mecca #medina #belgrade #singapore #bratislava #capetown #johannesburg #seoul #barcelona #madrid #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragozbanga #stockholm #zurich #geneva #basel #taipei #tainan #taichung #kaohsiung #Phuket #bangkok #istanbul #ankara #izmir #dubai #abudhabi #sharjah #london #manchester #liverpool #edinburgh #kiev #hcmc #hanoi #sanaa #taiz #aden #gibraltar #marrakech #lodz #wroclaw #poznan #Gdansk #szczecin #bydgoszcz #lublin #katowice #rio #salvador #fortaleza #brasilia #belo #belem #manaus #curitiba #portoalegre #saoluis data representation data analysis SQL data analytics analytics python (programming language) data mining data science r (programming language) tableau analytical skills data visualization databases business analysis business intelligence (bi) microsoft sql server machine learning statistics power bi
+
+Equal Opportunity Employer
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.'
+
+2023/06/06 20:38:32 - Element found with locator: jobs-apply-button--top-card and  locatorType: class
+
+2023/06/06 20:38:32 - Getting text on element :: 
+
+2023/06/06 20:38:32 - The text is :: 'Aplicar'
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5237F]
+	(No symbol) [0x00E4A283]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
+2023/06/06 20:38:33 - -------> Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=114.0.5735.110)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x00F68893+48451]
+	(No symbol) [0x00EFB8A1]
+	(No symbol) [0x00E05058]
+	(No symbol) [0x00DED073]
+	(No symbol) [0x00E4DEBB]
+	(No symbol) [0x00E5BFD3]
+	(No symbol) [0x00E4A0B6]
+	(No symbol) [0x00E27E08]
+	(No symbol) [0x00E28F2D]
+	GetHandleVerifier [0x011C8E3A+2540266]
+	GetHandleVerifier [0x01208959+2801161]
+	GetHandleVerifier [0x0120295C+2776588]
+	GetHandleVerifier [0x00FF2280+612144]
+	(No symbol) [0x00F04F6C]
+	(No symbol) [0x00F011D8]
+	(No symbol) [0x00F012BB]
+	(No symbol) [0x00EF4857]
+	BaseThreadInitThunk [0x75D57D59+25]
+	RtlInitializeExceptionChain [0x7721B74B+107]
+	RtlClearBits [0x7721B6CF+191]
+
+
