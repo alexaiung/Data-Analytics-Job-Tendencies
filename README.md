@@ -224,3 +224,12 @@ The comparison between the top two categories is very relevant, since they were 
 The E-commerce analyst is also very related to soft skills; however, they need to know about SAP tools, and about sales. The Business Data Analyst is a position similar to BI Analyst, but has a stronger presence of sales-related topics. Developer positions, on the other hand, asks mainly for hard skills.
 
 ![Skills by Topic](./images/skills_by_topic.png)
+
+# Conclusion
+
+Depending on the interest of a company, we can see two main types of jobs: those focused on data analysis, BI, and presentation of this data, and those focused on data engineering, dealing with databases, and cloud architecture. The first ones tend to be in-place and junior, the last tend to be remote and senior. 
+
+In general, cultivating better soft-skills would be advised for a person searching for a job in the area, since it is more required. SQL and Python would be the top hard skills to learn; possibly Excel too. More specific deductions can come depending on the topic in which a vacancy would be inserted.
+
+The dataset has a lot of possibilities, even if it is relatively small. A larger investigation can be launched on similar basis if we scrape Linkedin for more time, revealing tendencies for a determined position in a given period. This can also be made with others positions - don't need to be only data analysis.
+
