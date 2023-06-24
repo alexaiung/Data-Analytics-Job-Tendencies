@@ -215,9 +215,7 @@ Topic 'BI analyst' is where most of junior jobs are inserted. This means that Da
 
 Topic 'SAP engineering intern' is where are the internships; we have already explored this in the previous chart.
 
-
----
-
+## Skills Required by Topic
 
 Through the manipulation of the dataset, we can see the probability of a certain skill to be associated with a specific topic. We can see the main ones following. Note that not all topics have graphs. This was necessary to avoid errors: the probability tends to be high if the skill is required only in few positions; however, we can't trust the data if there are not enough quantity of the information. Curiously, this means that a topic that have a relatively high frequency, such as the topic 3 - cybersecurity, tends to ask for skills that are not usually required in other jobs. This means that we can't really suppose that those skills are representative, therefore they were ommitted.
 
